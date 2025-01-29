@@ -55,5 +55,6 @@
             ?>
         </button>
         </form>
+        <br><br><a href="Menu.php"><button>Voltar para o menu</button></a>
     </body>
 </html>
